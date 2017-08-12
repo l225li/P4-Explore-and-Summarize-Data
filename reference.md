@@ -1,0 +1,1 @@
+1. [Clustering Starbucks items](https://www.kaggle.com/jonathanbouchet/clustering-starbucks-items)
